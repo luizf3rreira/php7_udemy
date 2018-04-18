@@ -10,6 +10,4 @@ if (!is_dir($name)) {
 	echo "Já existe o diretório: $name foi removido";
 }
 
-
-
  ?>
