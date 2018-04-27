@@ -14,7 +14,7 @@ $old_image = imagecreatefromjpeg($file);
 
 imagecopyresampled($new_image, $old_image, 0, 0, 0, 0, $new_width, $new_height, $old_width, $old_height);
 
-imagejpeg($new_image);
+imagejpeg($new_image, "wallpaper.jpg"); 
 
 imagedestroy($new_image);
 imagedestroy($old_image);
