@@ -1,0 +1,9 @@
+{
+    "name": "luizferreira/composer",
+    "description": "Aula de PHP7\u001b[D 7",
+    "type": "project",
+    "minimum-stability": "dev",
+    "require": {
+    	"monolog/monolog":"1.0.*"
+    }
+}
