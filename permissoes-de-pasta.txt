@@ -1,0 +1,8 @@
+0 nada
+1 execução
+2 gravação
+3 execução e gravação
+4 somente leitura
+5 leitura e execução
+6 leitura e gravação
+7 execução leitura e gravação
